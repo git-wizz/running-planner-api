@@ -1,0 +1,7 @@
+{
+	"name": "Running Tracker API",
+	"version": "1.0.0",
+	"description":"API documentation for the Running Planner and Tracker project",
+	"title": "Running Tracker API Docs",
+	"url": "http://localhost:3000"
+}
